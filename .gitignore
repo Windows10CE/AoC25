@@ -20,3 +20,5 @@ appsettings.json
 
 # BDN Artifacts
 BenchmarkDotNet.Artifacts/
+
+.idea/
